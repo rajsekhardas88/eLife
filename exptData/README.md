@@ -6,4 +6,4 @@ The details of the data is given below.
 The column 1 is the cell packing fraction $\phi$
 Coulmn 2 is the logaritm of viscosity $\eta$
 Column 3 is the errors in $\phi$
-Column 4 is the errors in $eta$
+Column 4 is the errors in $\eta$
